@@ -3,7 +3,7 @@ repo: recipe-site-status
 
 sites:
   - name: Yummy Recipes Platform
-    url: https://yummy-recipes-ht6h.onrender.com
+    url: https://yummy-recipes-jfvg.onrender.com
 
 status-website:
   theme: dark
